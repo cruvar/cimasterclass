@@ -1,0 +1,3 @@
+/home/dev/projects/cimasterclass/build/CMakeFiles/rebuild_cache.dir
+/home/dev/projects/cimasterclass/build/CMakeFiles/edit_cache.dir
+/home/dev/projects/cimasterclass/build/CMakeFiles/hello.dir
