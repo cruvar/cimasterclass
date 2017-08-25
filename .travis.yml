@@ -3,7 +3,7 @@ language: cpp
 
 script:
   - mkdir build && cd build
-  - cmake .. -DCMAKE_CXX_COMPILER=$BUILD_TYPE
+  - cmake .. -DCMAKE_COMPILER=$BUILD_TYPE
   - cmake --build .
   - ./hello
 
